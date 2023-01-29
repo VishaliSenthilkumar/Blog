@@ -1,0 +1,46 @@
+{
+  "blogs": [
+    {
+      "title": "My First Blog",
+      "body": "Why do we use it?\nIt is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).\n\n\nWhere does it come from?\nContrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.\n\nThe standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.\n\nWhere can I get some?\nThere are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.",
+      "author": "john",
+      "id": 1
+    },
+    {
+      "title": "Opening Party!",
+      "body": "Why do we use it?\nIt is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).\n\n\nWhere does it come from?\nContrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.\n\nThe standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.\n\nWhere can I get some?\nThere are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.",
+      "author": "yoshi",
+      "id": 2
+    },
+    {
+      "title": "Exploring the World with Travel Technology",
+      "body": "Traveling has never been easier or more accessible, thanks to the rapid advancements in travel technology. From online booking platforms to mobile apps, technology has changed the way we plan, book, and experience our travels.",
+      "author": "vizhall",
+      "id": 3
+    },
+    {
+      "title": "The Power of Artificial Intelligence: Revolutionizing Our World",
+      "body": "Artificial Intelligence (AI) has been making headlines for years now, and for good reason. The technology has come a long way since its inception and has made a profound impact on our daily lives, revolutionizing industries and the way we live and work. From Siri and Alexa to self-driving cars and medical diagnoses, AI has made significant advancements in all areas of our lives.One of the biggest advantages of AI is its ability to analyze and process vast amounts of data at a speed that is beyond human capability. This has led to faster and more accurate decision-making in various industries, from finance to healthcare. AI algorithms can analyze large amounts of data in real-time, identify patterns and trends, and provide insights that can drive better business outcomes.",
+      "author": "yoshi",
+      "id": 4
+    },
+    {
+      "title": "Why You Should Get a Pet",
+      "body": "Pets have been a beloved part of our lives for thousands of years, providing us with unconditional love, companionship, and numerous health benefits. Whether you choose a dog, cat, bird, or another type of animal, owning a pet can be a rewarding and fulfilling experience.One of the biggest benefits of pet ownership is the companionship they provide. Pets are known to be great listeners and can help reduce stress and anxiety levels, providing their owners with a sense of comfort and security. Pets also offer physical affection, providing their owners with a source of comfort and love that can boost their mood and overall well-being.In addition, pets have been shown to have numerous health benefits. Studies have shown that pet owners have lower blood pressure and reduced stress levels compared to those who do not own pets. Owning a pet can also help people get more physical activity, as they often require regular walks or playtime. This increased activity can help improve heart health, boost immunity, and reduce the risk of obesity.",
+      "author": "jeni",
+      "id": 5
+    },
+    {
+      "title": "Gratitude Matters",
+      "body": "Gratitude is one of the most powerful emotions that we can experience, and expressing it through the simple act of saying 'thank you' can have a profound impact on our lives and the lives of those around us.One of the benefits of expressing gratitude is that it can improve our mental and emotional well-being. When we take the time to acknowledge and appreciate what we have, it can help us focus on the positive aspects of our lives and reduce feelings of stress and negativity.Expressing gratitude can also strengthen our relationships with others. When we acknowledge the help and support that we receive from others, it can deepen our connections and foster a sense of trust and respect.Another benefit of expressing gratitude is that it can improve our physical health. Research has shown that people who regularly practice gratitude experience lower levels of stress and anxiety, as well as improved sleep quality and a stronger immune system.",
+      "author": "hemanth",
+      "id": 6
+    },
+    {
+      "title": "sample",
+      "body": "...............................................",
+      "author": "xxx",
+      "id": 7
+    }
+  ]
+}
